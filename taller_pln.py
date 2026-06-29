@@ -152,7 +152,7 @@ def aplicar_stemming(texto):
 class AplicacionPLN:
     def __init__(self, root):
         self.root = root
-        self.root.title("Aplicación Básica PLN")
+        self.root.title("PLN")
         self.root.geometry("700x580")
         self.root.resizable(True, True)
         self.root.configure(bg="#f0f4f8")
@@ -167,7 +167,7 @@ class AplicacionPLN:
         # --- Título ---
         titulo = tk.Label(
             self.root,
-            text="Aplicación Básica PLN",
+            text="Aplicación PLN",
             font=("Arial", 16, "bold"),
             bg="#f0f4f8",
             fg="#2c3e50"
