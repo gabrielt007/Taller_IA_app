@@ -41,6 +41,3 @@ python taller_pln.py
 - **Tkinter** - Interfaz gráfica
 - **NLTK** - Procesamiento de Lenguaje Natural
 
-## Autor
-
-Escuela Politécnica Nacional (EPN)
